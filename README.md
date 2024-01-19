@@ -13,6 +13,7 @@
 2. Подготовка собственных исходных данных и настройка протокола GRE.
 =======================================================================================
 Исходные данные:
+
 ![image](https://github.com/V0vochka/Praktika-6/assets/70959108/14375ae4-1c38-4b2b-ac36-69e9a6faa87f)
 
 ![image](https://github.com/V0vochka/Praktika-6/assets/70959108/4532cf46-0a66-431f-94a9-0f387aa12f72)
@@ -62,7 +63,7 @@
 
    Сделаем трассировку от ПК A до ПК B.
 
-![image](https://github.com/V0vochka/Praktika-6/assets/70959108/7fd71b8b-df23-4f38-b7ef-cb736c6044c6)
+   ![image](https://github.com/V0vochka/Praktika-6/assets/70959108/7fd71b8b-df23-4f38-b7ef-cb736c6044c6)
 
    Обратите внимание на отсутствие в результатах публичных IP-адресов.
 
