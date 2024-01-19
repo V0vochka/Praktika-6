@@ -28,9 +28,11 @@
 
 3) Отправим эхо с ПК B на ПК A
    Узнаем IP адрес ПК A
+
 ![image](https://github.com/V0vochka/Praktika-6/assets/70959108/6e7b15be-177d-4fc3-8c06-dab16384fc1d)
 
 Отправляем эхо-запрос с ПК B на ПК A.
+
 ![image](https://github.com/V0vochka/Praktika-6/assets/70959108/cc4b6943-9add-4142-b596-f2d866adadc7)
 
 **Задача 2: Настройка туннелей GRE**
